@@ -1,4 +1,4 @@
-module FancyDance 
+module FancyDance
   module InstanceMethods
 
     def twirl
@@ -18,7 +18,7 @@ module FancyDance
     end
   end
 
-  module ClassMethods 
+  module ClassMethods
 
     def metadata
       "This class produces objects that love to dance."
